@@ -1,0 +1,51 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+}
+a {
+    color: #0077b5;   /* LinkedIn blue */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #005582;
+    text-decoration: underline;
+}
+
+
+ul {
+    list-style-type: none;
+    text-align: none;
+    margin: 0;
+    padding: 0;
+}
+
+.profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 10px;
+}
